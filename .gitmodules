@@ -1,0 +1,6 @@
+[submodule "2e"]
+	path = 2e
+	url = git@github.com:Kerjox/2e.git
+[submodule "1e"]
+	path = 1e
+	url = git@github.com:Kerjox/1e.git
